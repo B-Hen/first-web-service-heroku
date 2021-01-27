@@ -17,7 +17,7 @@ const indexPage = `
     <title>Random Number Web Service</title>
   </head>
   <body>
-    <h1>Random Number Web Service</h1>
+    <h1>Random Number Web Service!!!</h1>
     <p>
       Random Number Web Service - the endpoint is here --> 
       <a href="/random-number">random-number</a> or <a href="/random-number?max=10">random-number?max=10</a>
